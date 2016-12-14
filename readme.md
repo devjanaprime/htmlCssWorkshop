@@ -15,7 +15,7 @@ Tools:
 ------
 * github
 * github pages
-* your mind
+* your mind! (and fingers)
 
 Setup:
 ------
@@ -47,17 +47,19 @@ HTML Basics:
 
 CSS Basics:
 -----------
-* color
 * background-color
-* font family
-* width
-* padding
 * border
+* border-radius
+* color
+* float
+* font-family
+* padding
+* width
 
 Next Steps:
 -----------
-* keep exploring
 * add features/content
+* keep exploring
 * communicate with your peers
 
 Resources:
