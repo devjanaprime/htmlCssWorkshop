@@ -28,6 +28,11 @@ Setup:
 ![new repo](images/newRepo.png)
 * name the new repo YOURUSERNAME.github.io
 ![name repo](images/nameRepo.png)
+* this will allow this repo to be viewed via the internet
+* https://YOURUSERNAME.github.io is where we will be able to see our work
+* once we make changes, they take an average for 22.3 sec. to show on the github pages site
+* use <b>cmd+shift+r</b> to refresh this page and see our changes. This forces a full refresh.
+* on PC use <b>ctrl+shift+r</b>
 
 HTML Basics:
 ------------
