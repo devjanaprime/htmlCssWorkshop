@@ -53,4 +53,10 @@ Next Steps:
 -----------
 * keep exploring
 * add features/content
-* communicate
+* communicate with your peers
+
+Resources:
+----------
+* [codecademy](https://codecademy.com)
+* [lynda.com](https://lynda.com)
+* [w3schools.com](http://www.w3schools.com)
