@@ -67,4 +67,4 @@ Resources:
 * [codecademy](https://codecademy.com)
 * [lynda.com](https://lynda.com) - free with Hennepin County Library Card also possibly Dakota/Ramsey
 * [w3schools.com](http://www.w3schools.com)
-* [kahnacademy.com](http://www.kahnacademy.com)
+* [khanacademy.com](http://www.khanacademy.com)
