@@ -5,6 +5,8 @@ HTML CSS Workshop
 
 Ugly Spider page: https://github.com/devjanaprime/devjanaprime.github.io
 
+Atom Editor: https://atom.io/
+
 Overview:
 ---------
 * welcome/intro
