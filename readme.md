@@ -65,5 +65,5 @@ Next Steps:
 Resources:
 ----------
 * [codecademy](https://codecademy.com)
-* [lynda.com](https://lynda.com)
+* [lynda.com](https://lynda.com) - free with Hennepin County Library Card also possibly Dakota/Ramsey
 * [w3schools.com](http://www.w3schools.com)
